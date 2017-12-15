@@ -9,6 +9,8 @@ Fillit est un projet permettant de découvrir et/ou de se familiariser avec une 
 ## Usage
 `./fillit [file]`
 
+![Alt text](https://img15.hostingpics.net/pics/198641fillit1.png)
+
 Exemple(une lettre étant attribuée à chaque Tetriminos provenant du file):
 ```
 ~ ./fillit samples/test_8
