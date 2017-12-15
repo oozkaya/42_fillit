@@ -22,5 +22,3 @@ Autre exemple:
 Dernier exemple:
 
 ![Alt text](https://img15.hostingpics.net/pics/854735fillit3.png)
-
-Exemple(une lettre étant attribuée à chaque Tetriminos provenant du file):
