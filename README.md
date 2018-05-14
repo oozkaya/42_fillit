@@ -1,5 +1,4 @@
 # Fillit @ 42
-Can you feel it?
 
 Projet de groupe avec ade-verd@42
 
